@@ -1,0 +1,12 @@
+MadJunior.Board, MadJunior;md539ec51b44f972bcbd1ce4568d1278553.Board
+MadJunior.Board, MadJunior, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md539ec51b44f972bcbd1ce4568d1278553.Board
+MadJunior.Board;md539ec51b44f972bcbd1ce4568d1278553.Board
+madjunior.Board;md539ec51b44f972bcbd1ce4568d1278553.Board
+MadJunior.Login, MadJunior;md539ec51b44f972bcbd1ce4568d1278553.Login
+MadJunior.Login, MadJunior, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md539ec51b44f972bcbd1ce4568d1278553.Login
+MadJunior.Login;md539ec51b44f972bcbd1ce4568d1278553.Login
+madjunior.Login;md539ec51b44f972bcbd1ce4568d1278553.Login
+MadJunior.Home, MadJunior;md539ec51b44f972bcbd1ce4568d1278553.Home
+MadJunior.Home, MadJunior, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md539ec51b44f972bcbd1ce4568d1278553.Home
+MadJunior.Home;md539ec51b44f972bcbd1ce4568d1278553.Home
+madjunior.Home;md539ec51b44f972bcbd1ce4568d1278553.Home

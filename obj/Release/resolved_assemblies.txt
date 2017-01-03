@@ -1,0 +1,11 @@
+F:\mine\Projects\MadJunior\MadJunior\obj\Release\android\assets\MadJunior.dll
+F:\mine\Projects\MadJunior\MadJunior\obj\Release\android\assets\Java.Interop.dll
+F:\mine\Projects\MadJunior\MadJunior\obj\Release\android\assets\Mono.Android.dll
+F:\mine\Projects\MadJunior\MadJunior\obj\Release\android\assets\mscorlib.dll
+F:\mine\Projects\MadJunior\MadJunior\obj\Release\android\assets\System.Core.dll
+F:\mine\Projects\MadJunior\MadJunior\obj\Release\android\assets\System.dll
+F:\mine\Projects\MadJunior\MadJunior\obj\Release\android\assets\System.Xml.dll
+F:\mine\Projects\MadJunior\MadJunior\obj\Release\android\assets\SQLite-net.dll
+F:\mine\Projects\MadJunior\MadJunior\obj\Release\android\assets\SQLitePCL.raw.dll
+F:\mine\Projects\MadJunior\MadJunior\obj\Release\android\assets\System.Runtime.Serialization.dll
+F:\mine\Projects\MadJunior\MadJunior\obj\Release\android\assets\System.ServiceModel.Internals.dll
